@@ -1,0 +1,1 @@
+un detached head est obtenu quand on fait un commit avec head qui sort de la branche. Tout les commit qui seront fait sur la meme ligne ne seront pas gardé par git par la suite.En cela il n'est pas souhaitable car toutes les modifications ne seront pas prisent en compte et n'apparaitront pas dans le log.
