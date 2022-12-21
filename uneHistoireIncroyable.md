@@ -1,0 +1,1 @@
+C'était le matin à Paris. Jackie révait d'une journée comme les autres mais dans son réve, Marion séclin, son pire ennemi, n'existait pas. Jackie fut réveillé par Pitbull, a qui il avait promis d'aller faire une visite de gratte-ciel.
